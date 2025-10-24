@@ -1,3 +1,5 @@
+# Key Activities in Requirement Analysis 
+
 
 # Requirement Analysis in Software Development
 
@@ -93,4 +95,5 @@ Acceptance Criteria are specific conditions that a software feature must meet to
 - Users can proceed to checkout only after selecting a property and available dates.
 - The system should calculate the total amount including taxes and display it before confirmation.
 - Users must receive a confirmation email within 2 minutes after successful payment.
+
 
