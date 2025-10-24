@@ -76,9 +76,7 @@ Use Case Diagrams visually represent how users (actors) interact with the system
 
 ### Booking Management System - Use Case Diagram
 
-![Use Case Diagram](alx-booking-uc.png)
-
-
+[Use Case Diagram](alx-booking-uc.png)
 
 
 ## Acceptance Criteria 
@@ -95,5 +93,6 @@ Acceptance Criteria are specific conditions that a software feature must meet to
 - Users can proceed to checkout only after selecting a property and available dates.
 - The system should calculate the total amount including taxes and display it before confirmation.
 - Users must receive a confirmation email within 2 minutes after successful payment.
+
 
 
